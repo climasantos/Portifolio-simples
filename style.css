@@ -1,0 +1,148 @@
+.menu_inicial {
+    font-family: "Raleway", sans-serif;
+
+}
+
+.meu_nome {
+    font-family: "Raleway", sans-serif;
+
+}
+
+.telefone_foto{
+    border-radius: 10px;
+    border-style:outset;
+}
+
+
+/*LINKS*/
+
+a {
+    text-decoration: none;
+}
+
+.conteudo {
+    font-family: "Raleway", sans-serif;
+}
+
+.redes_sociais {
+    font-family: "Raleway", sans-serif;
+    text-decoration: none;
+}
+
+.sobre_mim {
+    font-family: "Raleway", sans-serif;
+
+}
+
+.skills {
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+}
+
+.icones_skills {
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+}
+
+.hobbies {
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+
+}
+
+.icones_hobbies {
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+}
+
+/*Contatos*/
+
+
+.contatos {
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+
+}
+
+/*contatos texto*/
+
+.contatos_texto {
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+}
+
+/*Formulário*/
+
+.error-message {
+    display: none;
+    color: red;
+    font-size: 0.9em;
+}
+
+
+.formulario {
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 15px;
+    max-width: 400px;
+    width: 100%;
+}
+
+form {
+    padding: 18px;
+}
+
+.form_content {
+    margin-bottom: 8px;
+    padding-bottom: 18px;
+    position: relative;
+}
+
+.form_content label {
+    display: inline-block;
+    margin-bottom: 28px;
+}
+
+.form_content input {
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+    padding: 8px;
+    border: 2px solid#dfdfdf;
+}
+
+.form_content a {
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    visibility: hidden;
+}
+
+.form button {
+    background-color: rgba(37, 141, 211, 0.651);
+    color: #fff;
+    width: 50%;
+    cursor: pointer;
+    margin-top: 14px;
+}
+
+.form_content #mensagem {
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    display: flex;
+    padding: 6px;
+    border-radius: 8px;
+    width: 350px;
+    height: 120px;
+}
+
+.form_content.error input {
+    border-color: red;
+}
+
+.form_content.error a {
+    border-color: red;
+    visibility: visible;
+}
